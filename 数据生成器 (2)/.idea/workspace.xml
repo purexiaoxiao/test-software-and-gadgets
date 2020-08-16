@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="数据生成器:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e92ae1f-18a0-4063-afff-b8327ecde6af" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/Frame.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/CreateScore.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1cydbNXSzDLQle0wOHkwKaksINr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../表白小姐姐" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\数据生成器 (2)\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Frame (1)">
+    <configuration name="Frame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Frame" />
+      <module name="数据生成器" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数据生成器.Frame" />
+      <module name="数据生成器" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数据生成器.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Frame" />
+      <module name="数据生成器" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Frame (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e92ae1f-18a0-4063-afff-b8327ecde6af" name="默认更改列表" comment="" />
+      <created>1591504837979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591504837979</updated>
+      <workItem from="1591504839774" duration="471000" />
+      <workItem from="1591508032221" duration="712000" />
+      <workItem from="1591509874700" duration="1197000" />
+      <workItem from="1592045327496" duration="1000" />
+      <workItem from="1592053295949" duration="594000" />
+      <workItem from="1592054355808" duration="2663000" />
+      <workItem from="1592061513767" duration="2401000" />
+      <workItem from="1592095167388" duration="1995000" />
+      <workItem from="1592097193125" duration="57000" />
+      <workItem from="1592097451024" duration="714000" />
+      <workItem from="1592389828369" duration="47000" />
+      <workItem from="1592390221941" duration="952000" />
+      <workItem from="1592391590776" duration="31000" />
+      <workItem from="1592639762891" duration="32000" />
+      <workItem from="1592642889059" duration="32000" />
+      <workItem from="1593693148631" duration="291000" />
+      <workItem from="1593694439228" duration="99000" />
+      <workItem from="1594703443808" duration="27000" />
+      <workItem from="1594703494985" duration="183000" />
+      <workItem from="1594703772232" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594703594361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592053327301" />
+    <state x="2283" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592095190873" />
+    <state x="415" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594703594361" />
+    <state x="803" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594703502579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594703502579" />
+    <state x="258" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592062077317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="258" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592062077317" />
+    <state x="586" y="198" key="#检查" timestamp="1593693201300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#检查/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1593693201300" />
+    <state x="440" y="94" key="#项目结构" timestamp="1594703452511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1594703452511" />
+    <state x="859" y="287" key="FileChooserDialogImpl" timestamp="1594703775702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1593694537202" />
+    <state x="2672" y="314" key="FileChooserDialogImpl/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592391092976" />
+    <state x="859" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594703775702" />
+    <state width="1875" height="273" key="GridCell.Tab.0.bottom" timestamp="1594703677759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592642920351" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592097178289" />
+    <state width="1875" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594703677759" />
+    <state width="1875" height="273" key="GridCell.Tab.0.center" timestamp="1594703677758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592642920350" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592097178288" />
+    <state width="1875" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594703677758" />
+    <state width="1875" height="273" key="GridCell.Tab.0.left" timestamp="1594703677758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592642920350" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592097178288" />
+    <state width="1875" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594703677758" />
+    <state width="1875" height="273" key="GridCell.Tab.0.right" timestamp="1594703677758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592642920351" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592097178288" />
+    <state width="1875" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594703677758" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1592057044640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592057044640" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1592057044640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592057044640" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1592057044640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592057044640" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1592057044640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592057044640" />
+    <state x="160" y="103" key="SettingsEditor" timestamp="1594703582469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="103" key="SettingsEditor/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1593693341328" />
+    <state x="565" y="75" key="SettingsEditor/0.0.1920.1040/1920.35.1680.1010@1920.35.1680.1010" timestamp="1592095237142" />
+    <state x="160" y="103" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594703582469" />
+    <state x="509" y="387" key="classpath-attribute-editor" timestamp="1592062080526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="387" key="classpath-attribute-editor/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592062080526" />
+    <state x="287" y="191" key="new project wizard" timestamp="1594703470079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="191" key="new project wizard/0.0.1920.1040/1920.35.1680.1010@0.0.1920.1040" timestamp="1592057043384" />
+    <state x="287" y="191" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594703470079" />
+  </component>
+</project>
